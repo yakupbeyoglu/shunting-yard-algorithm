@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\yakup\source\repos\shuttingyardcpp\shuttingyardcpp\source.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\yakup\source\repos\shuttingyardcpp\shuttingyardcpp\source.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\yakup\source\repos\shuttingyardcpp\shuttingyardcpp\source.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\yakup\source\repos\shuttingyardcpp\shuttingyardcpp\source.cpp(176): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  shuttingyardcpp.vcxproj -> C:\Users\yakup\source\repos\shuttingyardcpp\Debug\shuttingyardcpp.exe
